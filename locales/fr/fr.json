@@ -737,5 +737,7 @@
     "Zambia": "Zambie",
     "Zimbabwe": "Zimbabwe",
     "Zip / Postal Code": "Code postal",
-    "Åland Islands": "Les îles d'Åland"
+    "Åland Islands": "Les îles d'Åland",
+    "An error occurred while uploading the file.": "Une erreur s'est produite lors du téléchargement du fichier.",
+    "Are you sure you want to log out?":"Vous êtes sûr de vouloir vous déconnecter ?",
 }
